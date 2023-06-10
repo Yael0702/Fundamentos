@@ -1,0 +1,13 @@
+JSON (JavaScript Object Notation) es un formato de intercambio de datos ligero y fácil de leer y escribir. Se utiliza para transmitir y almacenar datos estructurados entre un servidor y un cliente, o entre diferentes aplicaciones. JSON se basa en una sintaxis simple de pares clave-valor y es ampliamente utilizado en aplicaciones web y servicios web.
+
+En JSON, los datos se representan en una estructura de objetos que consiste en pares clave-valor. Los valores pueden ser de diferentes tipos, como cadenas de texto, números, booleanos, arrays, objetos anidados o incluso valores nulos. La estructura de objetos permite organizar y representar datos de manera jerárquica y legible.
+
+Una de las principales ventajas de JSON es su facilidad de uso y comprensión tanto para los humanos como para las máquinas. Los datos en formato JSON son legibles para los desarrolladores y pueden ser fácilmente manipulados utilizando lenguajes de programación como JavaScript. Además, JSON es independiente del lenguaje, lo que significa que se puede utilizar en diferentes plataformas y con diferentes lenguajes de programación.
+
+JSON se utiliza ampliamente en el intercambio de datos entre el cliente y el servidor en aplicaciones web. Por ejemplo, cuando una página web hace una solicitud a un servidor para obtener datos, el servidor puede responder en formato JSON, que luego puede ser interpretado y utilizado por la página web para mostrar la información actualizada.
+
+También se utiliza en servicios web para comunicarse entre diferentes aplicaciones. Los servicios web pueden enviar y recibir datos en formato JSON para realizar acciones como el intercambio de información, la actualización de bases de datos o la integración de diferentes sistemas.
+
+Además, JSON se ha convertido en un estándar de facto para el intercambio de datos en APIs (Interfaces de Programación de Aplicaciones). Muchas API públicas y privadas utilizan JSON para transmitir datos estructurados, lo que facilita la integración de servicios y aplicaciones.
+
+En resumen, JSON es un formato de intercambio de datos ligero y legible que se utiliza ampliamente en aplicaciones web y servicios web. Permite representar datos estructurados en una sintaxis simple de pares clave-valor, lo que facilita el intercambio de información entre diferentes aplicaciones y sistemas. Su simplicidad y compatibilidad con diferentes lenguajes de programación lo convierten en una opción popular para el intercambio de datos en el desarrollo de software.
